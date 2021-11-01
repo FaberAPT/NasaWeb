@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaWeb.Api", "NasaWeb.Api\NasaWeb.Api.csproj", "{3FBA38EE-C099-4082-A0BA-E71FFA21686E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaWeb.Test", "NasaWeb.Test\NasaWeb.Test.csproj", "{258E7BCF-569A-4B02-85A4-85227D49803B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBA38EE-C099-4082-A0BA-E71FFA21686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBA38EE-C099-4082-A0BA-E71FFA21686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBA38EE-C099-4082-A0BA-E71FFA21686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBA38EE-C099-4082-A0BA-E71FFA21686E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258E7BCF-569A-4B02-85A4-85227D49803B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258E7BCF-569A-4B02-85A4-85227D49803B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258E7BCF-569A-4B02-85A4-85227D49803B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258E7BCF-569A-4B02-85A4-85227D49803B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCDECA4-10E1-4F91-A40A-82D78796FC95}
+	EndGlobalSection
+EndGlobal
